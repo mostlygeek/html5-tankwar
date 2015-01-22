@@ -1,4 +1,4 @@
-Html5-tankwar - A Html5 tank war game
+OMGZ! Html5-tankwar - A Html5 tank war game
 =======================================
 
 Introduction

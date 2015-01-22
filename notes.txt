@@ -1,3 +1,4 @@
+omgz
 Git basic commands:
     git init
     git add *
